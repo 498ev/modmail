@@ -1,0 +1,2 @@
+# modmail
+Custom Discord bot.
