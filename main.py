@@ -94,4 +94,4 @@ async def on_message(message):
   await client.process_commands(message)
 
 
-client.run("MTI4ODU2NDA2NzUxMzkyOTg1MA.G4x7J-.t3k4UOVQ2uDCdHhDYEkYWI0eJFZUrPwpp9n_tU")
+client.run("MTI4ODU2NTI2NDkxNjY3NjY1OQ.GcaTao.04N0DgltfZzk2KyFL6XHWUOU9wEfIly0nxc8TY")
